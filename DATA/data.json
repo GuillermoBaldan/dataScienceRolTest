@@ -1,0 +1,444 @@
+[
+    {
+        "pregunta": "¿Te sientes más cómodo/a trabajando con datos, programando o construyendo sistemas?",
+        "respuesta": [
+            {
+                "enunciado": "Me gusta trabajar con datos, analizando e interpretando para extraer insights valiosos",
+                "type": "Analyst"
+            },
+            {
+                "enunciado": "Me gusta programar, desarrollando modelos y algoritmos para resolver problemas complejos",
+                "type": "Scientist"
+            },
+            {
+                "enunciado": "Me gusta construir sistemas, diseñando y optimizando infraestructuras y pipelines de datos",
+                "type": "Engineer"
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Prefieres analizar datos, crear modelos predictivos o diseñar arquitecturas de datos?",
+        "respuesta": [
+            {
+                "enunciado": "Prefiero analizar datos",
+                "type": "Analyst"
+            },
+            {
+                "enunciado": "Prefiero crear modelos predictivos",
+                "type": "Scientist"
+            },
+            {
+                "enunciado": "Prefiero diseñar arquitecturas de datos",
+                "type": "Engineer"
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Qué te motiva más: resolver problemas prácticos, descubrir patrones ocultos o diseñar algoritmos?",
+        "respuesta": [
+            {
+                "enunciado": "Resolver problemas prácticos",
+                "type": "Analyst"
+            },
+            {
+                "enunciado": "Descubrir patrones ocultos",
+                "type": "Scientist"
+            },
+            {
+                "enunciado": "Diseñar algoritmos",
+                "type": "Engineer"
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Te atrae más la idea de explorar datos, construir modelos matemáticos o desarrollar infraestructuras?",
+        "respuesta": [
+            {
+                "enunciado": "Explorar datos",
+                "type": "Analyst"
+            },
+            {
+                "enunciado": "Construir modelos matemáticos",
+                "type": "Scientist"
+            },
+            {
+                "enunciado": "Desarrollar infraestructuras",
+                "type": "Engineer"
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Cómo prefieres trabajar cuando encuentras hallazgos importantes?",
+        "respuesta": [
+            {
+                "enunciado": "Me gusta comunicar y compartir mis descubrimientos con otros, explicando los detalles y el impacto de mis hallazgos",
+                "type": "Scientist"
+            },
+            {
+                "enunciado": "Prefiero documentar mis hallazgos de manera clara y organizada, trabajando de manera independiente y en silencio",
+                "type": "Engineer"
+            },
+            {
+                "enunciado": "Disfruto presentando mis descubrimientos y análisis de datos a un equipo o cliente, facilitando la toma de decisiones",
+                "type": "Analyst"
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Te sientes inspirado/a por la posibilidad de crear algo nuevo a partir de datos?",
+        "respuesta": [
+            {
+                "enunciado": "Me inspira la posibilidad de crear algo nuevo a partir de datos y disfruto desarrollando modelos innovadores o soluciones únicas",
+                "type": "Scientist"
+            },
+            {
+                "enunciado": "Prefiero seguir un enfoque estructurado, asegurándome de que todo funcione de manera eficiente y confiable",
+                "type": "Engineer"
+            },
+            {
+                "enunciado": "Me gusta explorar diferentes soluciones y enfoques para obtener los mejores insights de los datos",
+                "type": "Analyst"
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Cómo manifiestas tu curiosidad en el trabajo con datos?",
+        "respuesta": [
+            {
+                "enunciado": "Me emociona aprender nuevas técnicas, herramientas o lenguajes de programación y aplicarlos en mis proyectos",
+                "type": "Engineer"
+            },
+            {
+                "enunciado": "Soy curioso/a por naturaleza y disfruto investigando patrones ocultos y relaciones en los datos",
+                "type": "Scientist"
+            },
+            {
+                "enunciado": "Me interesa descubrir nuevas maneras de analizar y visualizar datos para obtener insights útiles",
+                "type": "Analyst"
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Cómo te enfrentas a los desafíos en el trabajo con datos?",
+        "respuesta": [
+            {
+                "enunciado": "De manera analítica: Desgloso el problema en partes más pequeñas y utilizo técnicas estadísticas y modelos matemáticos para resolverlo",
+                "type": "Analyst"
+            },
+            {
+                "enunciado": "De manera experimental: Pruebo diferentes enfoques y metodologías, ajustando y refinando mis métodos hasta encontrar la solución más efectiva",
+                "type": "Scientist"
+            },
+            {
+                "enunciado": "De manera intuitiva: Utilizo mi experiencia y conocimientos técnicos para diseñar y optimizar sistemas o arquitecturas que resuelvan el problema",
+                "type": "Engineer"
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Cómo prefieres colaborar en tu trabajo con datos?",
+        "respuesta": [
+            {
+                "enunciado": "Me gusta trabajar en equipo y valoro la diversidad de habilidades y perspectivas para encontrar soluciones integrales",
+                "type": "Scientist"
+            },
+            {
+                "enunciado": "Prefiero proyectos individuales donde puedo concentrarme en la eficiencia y funcionalidad del sistema que estoy construyendo",
+                "type": "Engineer"
+            },
+            {
+                "enunciado": "Disfruto colaborar con otros para analizar datos y presentar insights claros, apreciando distintas perspectivas para mejorar el análisis",
+                "type": "Analyst"
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Cómo prefieres abordar la solución de un problema?",
+        "respuesta": [
+            {
+                "enunciado": "Analizando el problema a fondo y utilizando herramientas estadísticas para encontrar la solución",
+                "type": "Analyst"
+            },
+            {
+                "enunciado": "Experimentando con diferentes metodologías y ajustando enfoques hasta resolver el problema",
+                "type": "Scientist"
+            },
+            {
+                "enunciado": "Aplicando conocimientos técnicos y experiencia para diseñar una solución estructuralmente sólida",
+                "type": "Engineer"
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Qué aspecto del trabajo con datos disfrutas más?",
+        "respuesta": [
+            {
+                "enunciado": "Interpretar y analizar datos para obtener conclusiones significativas",
+                "type": "Analyst"
+            },
+            {
+                "enunciado": "Desarrollar nuevos algoritmos y modelos predictivos",
+                "type": "Scientist"
+            },
+            {
+                "enunciado": "Construir y mantener la infraestructura que permite el flujo eficiente de datos",
+                "type": "Engineer"
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Cómo prefieres aprender nuevas habilidades en tu campo?",
+        "respuesta": [
+            {
+                "enunciado": "A través de cursos y programas de certificación enfocados en análisis de datos",
+                "type": "Analyst"
+            },
+            {
+                "enunciado": "Mediante la experimentación y desarrollo de proyectos personales de ciencia de datos",
+                "type": "Scientist"
+            },
+            {
+                "enunciado": "Por medio de la práctica y trabajo en proyectos de infraestructura de datos",
+                "type": "Engineer"
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Qué te resulta más gratificante en tu trabajo?",
+        "respuesta": [
+            {
+                "enunciado": "Proporcionar análisis detallados que guíen la toma de decisiones",
+                "type": "Analyst"
+            },
+            {
+                "enunciado": "Desarrollar modelos que predigan comportamientos futuros",
+                "type": "Scientist"
+            },
+            {
+                "enunciado": "Crear sistemas robustos que soporten grandes volúmenes de datos",
+                "type": "Engineer"
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Cómo prefieres abordar un nuevo proyecto?",
+        "respuesta": [
+            {
+                "enunciado": "Investigando y recopilando datos relevantes para el análisis",
+                "type": "Analyst"
+            },
+            {
+                "enunciado": "Prototipando rápidamente diferentes modelos y metodologías",
+                "type": "Scientist"
+            },
+            {
+                "enunciado": "Diseñando una arquitectura sólida y escalable desde el principio",
+                "type": "Engineer"
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Qué herramientas disfrutas usar más en tu trabajo diario?",
+        "respuesta": [
+            {
+                "enunciado": "Herramientas de visualización y análisis de datos como Tableau o Excel",
+                "type": "Analyst"
+            },
+            {
+                "enunciado": "Lenguajes de programación y bibliotecas como Python y TensorFlow",
+                "type": "Scientist"
+            },
+            {
+                "enunciado": "Tecnologías de bases de datos y frameworks de procesamiento de datos como SQL y Hadoop",
+                "type": "Engineer"
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Qué tipo de problemas te gusta resolver?",
+        "respuesta": [
+            {
+                "enunciado": "Problemas que requieren un análisis detallado de datos históricos",
+                "type": "Analyst"
+            },
+            {
+                "enunciado": "Problemas que pueden ser abordados mediante la creación de modelos predictivos",
+                "type": "Scientist"
+            },
+            {
+                "enunciado": "Problemas relacionados con la eficiencia y escalabilidad de sistemas de datos",
+                "type": "Engineer"
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Qué aspecto del análisis de datos te parece más interesante?",
+        "respuesta": [
+            {
+                "enunciado": "Encontrar patrones y tendencias en los datos",
+                "type": "Analyst"
+            },
+            {
+                "enunciado": "Desarrollar algoritmos que aprendan y se adapten a nuevos datos",
+                "type": "Scientist"
+            },
+            {
+                "enunciado": "Asegurar que los datos se manejen y procesen de manera eficiente",
+                "type": "Engineer"
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Cómo prefieres documentar tu trabajo?",
+        "respuesta": [
+            {
+                "enunciado": "Creando informes detallados con visualizaciones claras y concisas",
+                "type": "Analyst"
+            },
+            {
+                "enunciado": "Escribiendo papers o artículos técnicos sobre mis hallazgos y metodologías",
+                "type": "Scientist"
+            },
+            {
+                "enunciado": "Generando documentación técnica para asegurar la mantenibilidad de los sistemas",
+                "type": "Engineer"
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Qué tipo de datos te resulta más interesante trabajar con?",
+        "respuesta": [
+            {
+                "enunciado": "Datos estructurados que pueden ser analizados para obtener insights específicos",
+                "type": "Analyst"
+            },
+            {
+                "enunciado": "Grandes volúmenes de datos sin estructura clara, ideales para el aprendizaje automático",
+                "type": "Scientist"
+            },
+            {
+                "enunciado": "Datos que requieren un procesamiento eficiente y rápido a gran escala",
+                "type": "Engineer"
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Cómo prefieres enfrentar la necesidad de actualizar tus conocimientos?",
+        "respuesta": [
+            {
+                "enunciado": "Participando en cursos y webinars especializados en análisis de datos",
+                "type": "Analyst"
+            },
+            {
+                "enunciado": "Realizando proyectos personales y contribuyendo a la comunidad científica",
+                "type": "Scientist"
+            },
+            {
+                "enunciado": "Asistiendo a conferencias y talleres sobre nuevas tecnologías y herramientas",
+                "type": "Engineer"
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Qué prefieres hacer en un día típico de trabajo?",
+        "respuesta": [
+            {
+                "enunciado": "Analizar conjuntos de datos y preparar informes",
+                "type": "Analyst"
+            },
+            {
+                "enunciado": "Desarrollar y probar nuevos algoritmos de aprendizaje automático",
+                "type": "Scientist"
+            },
+            {
+                "enunciado": "Configurar y optimizar sistemas de procesamiento de datos",
+                "type": "Engineer"
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Qué aspecto de tu trabajo crees que tiene mayor impacto?",
+        "respuesta": [
+            {
+                "enunciado": "Proveer insights que ayuden a la toma de decisiones estratégicas",
+                "type": "Analyst"
+            },
+            {
+                "enunciado": "Crear modelos que puedan predecir comportamientos y tendencias futuras",
+                "type": "Scientist"
+            },
+            {
+                "enunciado": "Diseñar sistemas que soporten grandes volúmenes de datos de manera eficiente",
+                "type": "Engineer"
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Qué te resulta más desafiante en tu trabajo?",
+        "respuesta": [
+            {
+                "enunciado": "Interpretar datos complejos y extraer insights útiles",
+                "type": "Analyst"
+            },
+            {
+                "enunciado": "Desarrollar algoritmos precisos y eficientes",
+                "type": "Scientist"
+            },
+            {
+                "enunciado": "Optimizar el rendimiento de sistemas de datos a gran escala",
+                "type": "Engineer"
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Cómo prefieres manejar los errores y problemas en tus proyectos?",
+        "respuesta": [
+            {
+                "enunciado": "Analizando y depurando los datos para encontrar y corregir errores",
+                "type": "Analyst"
+            },
+            {
+                "enunciado": "Experimentando con diferentes enfoques hasta encontrar una solución",
+                "type": "Scientist"
+            },
+            {
+                "enunciado": "Diagnosticando y optimizando el sistema para prevenir futuros errores",
+                "type": "Engineer"
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Cómo prefieres trabajar bajo presión?",
+        "respuesta": [
+            {
+                "enunciado": "Analizando los datos con precisión para asegurar resultados precisos",
+                "type": "Analyst"
+            },
+            {
+                "enunciado": "Probando y ajustando rápidamente mis modelos para mejorar su rendimiento",
+                "type": "Scientist"
+            },
+            {
+                "enunciado": "Optimizando los sistemas para asegurar que pueden manejar la carga de trabajo",
+                "type": "Engineer"
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Cómo manejas los cambios rápidos en los proyectos?",
+        "respuesta": [
+            {
+                "enunciado": "Adaptando mis análisis y presentaciones para reflejar los nuevos datos",
+                "type": "Analyst"
+            },
+            {
+                "enunciado": "Ajustando mis modelos y algoritmos para incorporar los nuevos requisitos",
+                "type": "Scientist"
+            },
+            {
+                "enunciado": "Rediseñando y ajustando la arquitectura del sistema para cumplir con las nuevas demandas",
+                "type": "Engineer"
+            }
+        ]
+    }
+]
