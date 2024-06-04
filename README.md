@@ -24,8 +24,8 @@ This project aims to help you find your role in the field of data science. By ta
 ## Project Structure
 
 - `index.html`: HTML structure of the project.
-- `styles.css`: CSS styles for design and presentation.
-- `scripts.js`: JavaScript logic for test functionality.
+- `style/style.css`: CSS styles for design and presentation.
+- `JS/index.js`: JavaScript logic for test functionality.
 - `DATA/data.json`: Contains the questions and answers for the test.
 
 ## Contributions
